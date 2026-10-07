@@ -1,50 +1,93 @@
-<h1 align="center">Hi, I'm Shahzad Hussain 👋</h1>
-<h3 align="center">Unity Game Developer (C#) · Mobile & PC Games · Open to roles in the UAE 🇦🇪</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:3a1200,100:ff6a00&height=200&section=header&text=Shahzad%20Hussain&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Unity%20Game%20Developer%20%E2%80%A2%20C%23&descSize=18&descAlignY=58" />
 
 <p align="center">
-  <a href="https://buildbyshahzad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-buildbyshahzad.netlify.app-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shahzadhussain49"><img src="https://img.shields.io/badge/LinkedIn-Shahzad%20Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shahzadhussain74303@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF6A00&center=true&vCenter=true&width=620&lines=30%2B+mobile+%26+PC+games+shipped;Multiplayer+%E2%80%A2+Monetization+%E2%80%A2+Game+feel;Building+games+for+clients+in+KSA;Open+to+Unity+roles+in+Dubai+%26+Abu+Dhabi" />
 </p>
 
----
-
-### 🎮 About me
-- Game Developer at **Cipher Coders** — **30+ mobile & PC games** shipped, including client titles for Saudi studios
-- Previously Jr. Game Developer at **GamEmpires** — 3D racing games, ad & IAP monetization
-- BS Information Technology, University of Gujrat
-- Currently looking for **Unity / Game Developer** roles in the **UAE** (Dubai, Abu Dhabi) — open to relocate
-
-### 🚀 Shipped & featured work
-| Project | What it is | Tech |
-|---|---|---|
-| **Off-Road Jeep Driving 4x4** | Off-road driving sim with vehicle customization & in-game shop | Unity 6 · URP · DOTween |
-| **Match Nest** | 2D puzzle game built for Play Store monetization | Unity · AdMob |
-| **Lammah** · **Hunters Bar** | Client games delivered at Cipher Coders | Unity · C# |
-| **Metin2-style MMORPG client** | Unity client with REST-backed in-game currency persistence | Unity · REST API |
-| **Liar's Bar-style card game** | Online multiplayer bluffing card game | Photon Fusion 2 · Firebase |
-
-### 🛠 Tech stack
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photon%20Fusion-004480?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p align="center">
+  <a href="https://buildbyshahzad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff6a00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahzadhussain49"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shahzadhussain74303@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff6a00" /></a>
 </p>
 
-**Game systems I build:** gameplay & vehicle physics · multiplayer (Photon) · AI (NavMesh) · UI/UX & DOTween polish · ads (AdMob, Unity Ads, AppLovin) & IAP · save systems & REST/Firebase backends · Android & WebGL builds
+<br/>
 
-### 📊 GitHub stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BuildByShahzad&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildByShahzad&layout=compact&hide_border=true&theme=tokyonight" />
+## 🕹️ Player profile
+
+```csharp
+public class Shahzad : GameDeveloper
+{
+    public string   CurrentGuild  => "Cipher Coders — Game Developer";
+    public string   PreviousGuild => "GamEmpires — Jr. Game Developer (3D racing)";
+    public int      GamesShipped  => 30;   // mobile + PC, incl. client titles for Saudi studios
+    public string[] MainWeapons   => new[] { "Unity 6", "C#", "URP", "Photon Fusion", "Firebase" };
+    public string[] SideQuests    => new[] { "C++ / SFML", "Next.js", "REST APIs" };
+    public string   Education     => "BS Information Technology — University of Gujrat";
+
+    public string NextLevel() => "Unity / Game Developer role in the UAE — ready to relocate";
+}
+```
+
+## 🏆 Quests completed
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚙 Off-Road Jeep Driving 4x4</h3>
+      Off-road driving sim on Android. Vehicle customization, in-game shop, and a polished boot → splash → loading flow with DOTween.
+      <br/><br/>
+      <code>Unity 6</code> <code>URP</code> <code>DOTween Pro</code> <code>Android</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🃏 Liar's Bar-style card game</h3>
+      Online multiplayer bluffing game — networked turns, rooms and player state, with a Firebase backend.
+      <br/><br/>
+      <code>Photon Fusion 2</code> <code>Firebase</code> <code>Multiplayer</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ Metin2-style MMORPG client</h3>
+      Unity client for a classic MMORPG — in-game currency (Yang / Dragon Coin) persisted against a REST backend.
+      <br/><br/>
+      <code>Unity</code> <code>REST API</code> <code>Client–server</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Match Nest</h3>
+      2D puzzle game built and tuned for Play Store release, with AdMob ad placements for monetization.
+      <br/><br/>
+      <code>Unity 2D</code> <code>AdMob</code> <code>Play Store</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎯 Lammah · Hunters Bar</h3>
+      Client games shipped at Cipher Coders — part of 30+ titles delivered across mobile and PC.
+      <br/><br/>
+      <code>Client work</code> <code>Unity</code> <code>C#</code>
+    </td>
+  </tr>
+</table>
+
+## 🌳 Skill tree
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,firebase,androidstudio,blender,git,github,vscode,nextjs&theme=dark" />
 </p>
 
----
-<p align="center"><i>Available for full-time roles and freelance Unity projects — let's build something fun.</i></p>
+| Branch | Unlocked |
+|---|---|
+| 🎮 **Gameplay** | Vehicle & character controllers · physics · NavMesh AI · weapons & combat · level flow |
+| 🌐 **Multiplayer & backend** | Photon Fusion 2 · Firebase · REST APIs · save systems & data persistence |
+| 💰 **Monetization** | AdMob · Unity Ads · AppLovin · in-app purchases · rewarded ad loops |
+| ✨ **Game feel & UI** | DOTween animation · UI/UX polish · URP lighting & optimization |
+| 📦 **Shipping** | Android & WebGL builds · Play Store releases · performance profiling |
+
+## 📡 Status
+
+- 🔨 **Building:** multiplayer and racing projects in Unity 6
+- 🎯 **Looking for:** Unity / Game Developer roles in **Dubai or Abu Dhabi** — full-time, relocation-ready
+- 🤝 **Also open to:** freelance Unity work — prototypes, full games, bug-fixing and ad/IAP integration
+- 📬 **Fastest way to reach me:** [LinkedIn](https://www.linkedin.com/in/shahzadhussain49) or [email](mailto:shahzadhussain74303@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,45:3a1200,100:0d0d0d&height=110&section=footer" />
