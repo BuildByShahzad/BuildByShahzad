@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+<defs>
+  <linearGradient id="og" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff6a00"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
+  <linearGradient id="og2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6a00"/><stop offset="1" stop-color="#7a2e00"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151b26"/><stop offset="1" stop-color="#11161f"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="838" height="298" rx="16" fill="url(#panel)" stroke="#252c38"/>
+<text x="30" y="42" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#ff6a00">// CHARACTER</text>
+<text x="30" y="80" font-size="26" font-weight="800" fill="#e6edf3">Shahzad Hussain</text>
+<rect x="30" y="92" width="64" height="3" rx="1.5" fill="url(#og)"/>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.25;1" dur="0.8s" begin="0s" fill="freeze"/><text x="30" y="128" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">CLASS</text><text x="130" y="128" font-size="14" fill="#e6edf3">Unity Game Developer</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.333;1" dur="0.9s" begin="0s" fill="freeze"/><text x="30" y="155" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">GUILD</text><text x="130" y="155" font-size="14" fill="#e6edf3">Cipher Coders</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="1.0s" begin="0s" fill="freeze"/><text x="30" y="182" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">PREVIOUS</text><text x="130" y="182" font-size="14" fill="#e6edf3">GamEmpires · 3D racing</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.455;1" dur="1.1s" begin="0s" fill="freeze"/><text x="30" y="209" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">WEAPONS</text><text x="130" y="209" font-size="14" fill="#e6edf3">Unity 6 · C# · URP</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="1.2s" begin="0s" fill="freeze"/><text x="30" y="236" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">EDUCATION</text><text x="130" y="236" font-size="14" fill="#e6edf3">BS IT · University of Gujrat</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.538;1" dur="1.3s" begin="0s" fill="freeze"/><text x="30" y="263" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">ROUTE</text><text x="130" y="263" font-size="14" fill="#e6edf3">Pakistan  →  UAE</text></g>
+<line x1="410" y1="30" x2="410" y2="270" stroke="#252c38"/>
+<text x="440" y="42" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#ff6a00">// STATS</text>
+<text x="440" y="74" font-size="13" fill="#e6edf3">Unity &amp; C#</text>
+<rect x="440" y="82" width="370" height="8" rx="4" fill="#1c2330"/>
+<rect x="440" y="82" width="348" height="8" rx="4" fill="url(#og)"><animate attributeName="width" values="0;0;348" keyTimes="0;0.214;1" dur="1.4s" begin="0s" fill="freeze"/></rect>
+<text x="440" y="111" font-size="13" fill="#e6edf3">Gameplay systems</text>
+<rect x="440" y="119" width="370" height="8" rx="4" fill="#1c2330"/>
+<rect x="440" y="119" width="326" height="8" rx="4" fill="url(#og)"><animate attributeName="width" values="0;0;326" keyTimes="0;0.29;1" dur="1.55s" begin="0s" fill="freeze"/></rect>
+<text x="440" y="148" font-size="13" fill="#e6edf3">Monetization · Ads &amp; IAP</text>
+<rect x="440" y="156" width="370" height="8" rx="4" fill="#1c2330"/>
+<rect x="440" y="156" width="318" height="8" rx="4" fill="url(#og)"><animate attributeName="width" values="0;0;318" keyTimes="0;0.353;1" dur="1.7s" begin="0s" fill="freeze"/></rect>
+<text x="440" y="185" font-size="13" fill="#e6edf3">UI &amp; game feel</text>
+<rect x="440" y="193" width="370" height="8" rx="4" fill="#1c2330"/>
+<rect x="440" y="193" width="311" height="8" rx="4" fill="url(#og)"><animate attributeName="width" values="0;0;311" keyTimes="0;0.405;1" dur="1.85s" begin="0s" fill="freeze"/></rect>
+<text x="440" y="222" font-size="13" fill="#e6edf3">Multiplayer · Photon</text>
+<rect x="440" y="230" width="370" height="8" rx="4" fill="#1c2330"/>
+<rect x="440" y="230" width="289" height="8" rx="4" fill="url(#og)"><animate attributeName="width" values="0;0;289" keyTimes="0;0.45;1" dur="2.0s" begin="0s" fill="freeze"/></rect>
+<text x="440" y="259" font-size="13" fill="#e6edf3">Backend · Firebase &amp; REST</text>
+<rect x="440" y="267" width="370" height="8" rx="4" fill="#1c2330"/>
+<rect x="440" y="267" width="266" height="8" rx="4" fill="url(#og)"><animate attributeName="width" values="0;0;266" keyTimes="0;0.488;1" dur="2.15s" begin="0s" fill="freeze"/></rect>
+</svg>
